@@ -1,18 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  ONE THING LEFT BEFORE YOU PUSH:                                 ║
-  ║                                                                  ║
-  ║  Replace  YOUR_PORTFOLIO.com  with your real portfolio URL —     ║
-  ║  it appears twice (header and footer). If you don't have one,    ║
-  ║  delete both <a>...</a> Portfolio blocks instead of shipping a   ║
-  ║  dead link.                                                      ║
-  ║                                                                  ║
-  ║  Then push to a PUBLIC repo named EXACTLY:  AkulRanjan           ║
-  ║      github.com/AkulRanjan/AkulRanjan                            ║
-  ║  Any other repo name will not render on your profile.            ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 # Akul Ranjan
@@ -114,20 +99,17 @@ Built a semantic segmentation pipeline on IBM's Prithvi EO V2 300M foundation mo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkulRanjan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&border_radius=10" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkulRanjan&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=10" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkulRanjan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&border_radius=10" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkulRanjan&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=10" alt="Top languages" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=AkulRanjan&hide_border=true&theme=tokyonight&border_radius=10" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=AkulRanjan&hide_border=true&theme=tokyonight&border_radius=10" alt="GitHub streak" />
 
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkulRanjan&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution graph" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkulRanjan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 
 </div>
 
