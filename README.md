@@ -105,8 +105,6 @@ Built a semantic segmentation pipeline on IBM's Prithvi EO V2 300M foundation mo
 
 <br /><br />
 
-<br /><br />
-
 </div>
 
 ---
