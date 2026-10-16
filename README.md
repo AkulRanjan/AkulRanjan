@@ -105,8 +105,6 @@ Built a semantic segmentation pipeline on IBM's Prithvi EO V2 300M foundation mo
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=AkulRanjan&hide_border=true&theme=tokyonight&border_radius=10" alt="GitHub streak" />
-
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkulRanjan&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution graph" />
